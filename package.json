@@ -1,0 +1,9 @@
+{
+  "name": "bfhl-graph-analyzer-root",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Root configuration to automatically proxy Render deployments to the backend folder",
+  "scripts": {
+    "postinstall": "cd backend && npm install"
+  }
+}
