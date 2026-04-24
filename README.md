@@ -45,5 +45,3 @@ A full-stack application that processes directed node relationships, constructs 
 - Frontend: Vercel  
 
 ---
-
-## 📁 Project Structure
